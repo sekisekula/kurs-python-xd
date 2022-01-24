@@ -1,0 +1,16 @@
+ls
+pwd
+cd
+mkdir
+alias / unalias
+cp
+rm
+mv
+touch
+chmod
+exit
+sudo
+kill
+apt
+ping
+history
